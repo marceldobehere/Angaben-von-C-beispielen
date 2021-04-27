@@ -1,0 +1,59 @@
+﻿Mitarbeiter
+Urlaubsbeginn,Urlaubsende
+
+Thomas Hammerschmidt
+2016-10-01,2016-10-20
+
+Max Rudolf
+2016-10-10,2016-10-15
+
+Udo Lantscher
+2017-01-01,2017-01-14
+
+Ralph Sieghart
+2017-02-15,2017-03-03
+
+Sanja Tomasek
+2017-03-01,2017-03-05
+
+Hans Sattler
+2017-07-11,2017-07-20
+
+Roman Romanov
+2017-08-31,2017-08-31
+
+Karin Müller
+2017-08-30,2017-09-12
+
+Josef Paul
+2017-09-01,2017-09-08
+
+Rainer Kovarik
+2017-12-15,2018-01-05
+
+Sebastian Langthaler
+2017-10-01,2017-10-01
+
+Hubert Meyer
+2017-12-27,2018-01-12
+
+Paul Mendolitsch
+2018-02-05,2018-02-26
+
+Erwin Romanov
+2018-02-20,2018-03-01
+
+Franziska Kostelitsch
+2018-04-16,2018-04-20
+
+Leo Mann
+2018-03-01,2018-03-02
+
+Rene Thaller
+2018-04-30,2018-05-04
+
+Wolfgang Sabitzer
+2018-05-10,2018-05-15
+
+Norbert Koller
+2018-06-01,2018-06-08
