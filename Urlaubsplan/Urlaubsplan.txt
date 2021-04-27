@@ -1,6 +1,5 @@
-﻿Mitarbeiter
+Mitarbeiter
 Urlaubsbeginn,Urlaubsende
-
 Thomas Hammerschmidt
 2016-10-01,2016-10-20
 
